@@ -1,7 +1,7 @@
 
 {
     "setup": {
-        "city": "Huahin",
+        "city": "huahin",
         "delay": 10
     },
   "config": {
@@ -10,20 +10,20 @@
       "timestamp": "{end:1719680400}"
         },
         "text-1": [
-            "{emoji:time} {hour:1}:{min:1} ⌯ {th=date}/{th=month:1}/{th=year:2}"
+            "⛄ 𝑾𝒉𝒊𝒕𝒆𝑭𝒖𝒚𝒖 𝑺𝒉𝒐𝒑 :꒱"
         ],
         "text-2": [
-            "ꜱᴛᴀʀᴛɪɴɢ...",
-            "{NF6(【 1 / 12 】)}  | 🔥 ᴡʜɪᴛᴇ",
-            "{NF6(【 2 / 12 】)}  | 🔥 ᴡʜɪᴛᴇꜰᴜ",
-            "{NF6(【 3 / 12 】)}  | 🔥 ᴡʜɪᴛᴇꜰᴜʏᴜ",
-            "{NF6(【 4 / 12 】)} | 🔥 ᴡʜɪᴛᴇꜰᴜʏᴜ ꜱʜᴏᴘ"
+            "waiting...",
+            "{NF6( party 1/4 )}  | 🔥 nitroshop",
+            "{NF6( party 2/4 )}  | 🔥 boostserv",
+            "{NF6( party 3/4 )}  | 🔥 streaming 24/7",
+            "{NF6( party 4/4 )}  | 🔥 ᴡʜɪᴛᴇꜰᴜʏᴜ"
           ],
         "text-3": [
             "🌡️ {temp:c} °C | 🍃 {wind:kph} km/",
-            "CPU : {cpu:usage}% RAM: {ram:usage}%",
+            "{emoji:time} {hour:1}:{min:1} ⌯ {th=date}/{th=month:1}/{th=year:2}",
             "🌏 {city} | 💤 alwayssleeping",
-            "🌙 to the moon. | 🌎 {country}"
+            "to the moon. | 🌎 {country}"
         ],
         "bigimg": [
             "https://i.ibb.co/9s3BXdX/raw-676624984.gif",
@@ -58,7 +58,7 @@
             "https://i.ibb.co/xHfCFNM/tenor-1065505233.gif",
             "https://i.ibb.co/xsb8BbC/tumblr-os3qcj4-MKm1wn2b96o1-500-1263914905.gif"
         ],
-        "smallimg": [],
+        "smallimg": ["https://ibb.co/pQD9ssv"],
         "button-1": [
             {
                 "name": "❄ Facebook ❄",
