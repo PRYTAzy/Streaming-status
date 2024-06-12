@@ -1,12 +1,12 @@
 
 {
     "setup": {
-        "city": "pattay",
+        "city": "Huahin",
         "delay": 10
     },
   "config": {
     "options": {
-      "watch-url": ["https://youtu.be/fOoSbUoayQE?si=32BAPa8GI2MqQhjB"],
+      "watch-url": ["https://youtu.be/MFtfIpt7DfY?si=0fHF56Oqv26gJ3T1"],
       "timestamp": "{end:1719680400}"
         },
         "text-1": [
@@ -14,43 +14,16 @@
         ],
         "text-2": [
             "ꜱᴛᴀʀᴛɪɴɢ...",
-            "{NF6(【 1 / 30 】)}  | 🌸 ʀᴀᴄʜᴇʟ ɢᴀʀᴅɴᴇʀ",
-            "{NF6(【 2 / 30 】)}  | 🌸 ᴍɪɴɪ ʏᴀᴇᴍᴏʀɪ",
-            "{NF6(【 3 / 30 】)}  | 🌸 ᴀʀɪꜱᴜ ꜱᴀᴋᴀʏᴀɴᴀɢɪ",
-            "{NF6(【 4 / 30 】)}  | 🌸 ꜱᴜᴢᴜɴᴇ ʜᴏʀɪᴋɪᴛᴀ",
-            "{NF6(【 5 / 30 】)}  | 🌸 ᴋᴇɪ ᴋᴀʀᴜɪᴢᴀᴡᴀ",
-            "{NF6(【 6 / 30 】)}  | 🌸 ʜɪʏᴏʀɪ ꜱʜɪɪɴᴀ",
-            "{NF6(【 7 / 30 】)}  | 🌸 ᴋᴏᴍᴀʀɪ",
-            "{NF6(【 8 / 30 】)}  | 🌸 ᴋᴜʀᴜᴍɪ ᴛᴏᴋɪꜱᴀᴋɪ",
-            "{NF6(【 9 / 30 】)}  | 🌸 ᴋᴏᴛᴏʀɪ ɪᴛꜱᴜᴋᴀ",
-            "{NF6(【 10 / 30 】)} | 🌸 ʏᴏꜱʜɪɴᴏ",
-            "{NF6(【 11 / 30 】)} | 🌸 ᴍᴇɢᴜᴍɪɴ",
-            "{NF6(【 12 / 30 】)} | 🌸 ᴍᴀꜱʜɪʀᴏ ꜱʜɪɪɴᴀ",
-            "{NF6(【 13 / 30 】)} | น่ารักที่สุด 🌸 ᴘᴜɴʏᴜʀᴜ ᴛᴀᴋᴀɴᴀꜱʜɪ",
-            "{NF6(【 14 / 30 】)} | 🌸 ʀʏᴜᴜᴋᴏ ᴍᴀᴛᴏɪ",
-            "{NF6(【 15 / 30 】)} | 🌸 ᴛᴀᴛꜱᴜᴍᴀᴋɪ",
-            "{NF6(【 16 / 30 】)} | 🌸 ᴍɪɪᴀ",
-            "{NF6(【 17 / 30 】)} | 🌸 ᴍᴀɪ ꜱᴀᴋᴜʀᴀᴊɪᴍᴀ",
-            "{NF6(【 18 / 30 】)} | 🌸 ᴋᴀɴᴀ ᴀʀɪᴍᴀ",
-            "{NF6(【 19 / 30 】)} | 🌸 ʜᴏꜱʜɪɴᴏ",
-            "{NF6(【 20 / 30 】)} | 🌸 ʀᴜʙʏ ʜᴏꜱʜɪɴᴏ",
-            "{NF6(【 21 / 30 】)} | 🌸 ᴍᴀʀɪɴ ᴋɪᴛᴀɢᴀᴡᴀ",
-            "{NF6(【 22 / 30 】)} | 🌸 ᴍɪᴋᴜ ɴᴀᴋᴀɴᴏ ",
-            "{NF6(【 23 / 30 】)} | 🌸 ᴋᴀɢᴜʏᴀ ꜱʜɪɴᴏᴍɪʏᴀ",
-            "{NF6(【 24 / 30 】)} | 🌸 ʜᴏʟᴏ",
-            "{NF6(【 25 / 30 】)} | 🌸 ʀɪᴀꜱ ɢʀᴇᴍᴏʀʏ",
-            "{NF6(【 26 / 30 】)} | 🌸 ꜱᴀʙᴇʀ",
-            "{NF6(【 27 / 30 】)} | 🌸 ᴛᴏʜʀᴜ",
-            "{NF6(【 28 / 30 】)} | 🌸 ɴᴀᴏ ᴛᴏᴍᴏʀɪ",
-            "{NF6(【 29 / 30 】)} | 🌸 ꜱʜɪɴᴀᴏ ʜɪʀᴀɢɪ",
-            "{NF6(【 30 / 30 】)} | 🌸 ᴛᴀɪɢᴀ ᴀɪꜱᴀᴋᴀ"
+            "{NF6(【 1 / 12 】)}  | 🔥 ᴡʜɪᴛᴇ",
+            "{NF6(【 2 / 12 】)}  | 🔥 ᴡʜɪᴛᴇꜰᴜ",
+            "{NF6(【 3 / 12 】)}  | 🔥 ᴡʜɪᴛᴇꜰᴜʏᴜ",
+            "{NF6(【 4 / 12 】)} | 🔥 ᴡʜɪᴛᴇꜰᴜʏᴜ ꜱʜᴏᴘ"
           ],
         "text-3": [
             "🌡️ {temp:c} °C | 🍃 {wind:kph} km/",
             "CPU : {cpu:usage}% RAM: {ram:usage}%",
-            "Ping Server : {ping} ms",
-            "🌏 {city} | ☀️ UV Index {uv}",
-            "☁ {cloud} | 🌎 {country}"
+            "🌏 {city} | 💤 alwayssleeping",
+            "🌙 to the moon. | 🌎 {country}"
         ],
         "bigimg": [
             "https://i.ibb.co/9s3BXdX/raw-676624984.gif",
@@ -88,78 +61,78 @@
         "smallimg": [],
         "button-1": [
             {
-                "name": "M",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "MI",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "MIY",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "MIYA",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "MIYAK",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "MIYAKO",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "MIYAKO ",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "MIYAKO V",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "MIYAKO V1",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "O",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "OW",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "OWN",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "OWN BY 4",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "OWN BY 4l",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "OWN BY 4le",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "OWN BY 4lev",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             },
             {
-                "name": "OWN BY 4levy",
-                "url": "https://discord.gg/jmmrQcwYP3"
+                "name": "❄ Facebook ❄",
+                "url": "https://www.facebook.com/snxnr/"
             }
         ],
         "button-2": [
             {
-                "name": "4levy 's Contact",
-                "url": "https://github.com/4levy"
+                "name": "❄ Instagram ❄",
+                "url": "https://www.instagram.com/snalwaysmissyou/"
             }
         ]
     }
