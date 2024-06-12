@@ -20,15 +20,8 @@
             "{NF6( party 4/4 )}  | 🔥 ᴡʜɪᴛᴇꜰᴜʏᴜ"
           ],
         "text-3": [
-          "{NF6()} 👥 ᴜꜱᴇʀɴᴀᴍᴇ : 🗂️ {user:name} ",
-          "{NF6()} 📶 ᴘɪɴɢ : 📶 {NF6({ping})} ",
-          "{NF6()} 🌉 ᴄᴏᴜɴᴛʀʏ : {country} ",
-          "{NF6()} 🏞️ ᴛᴇᴍᴘ ɪɴ {city} : 🌡️ {NF6({temp:c})}  /  🌡️ {NF6({temp:f})} ",
-          "{NF6()} 🍃 ᴡɪɴᴅ ɪɴ {city} : 🍃 {NF6({wind:kph})} / 🍃 {NF6({wind:mph})} ",
-          "{NF6()} 🍃 ɢᴜꜱᴛ ᴏꜰ ᴡɪɴᴅ ɪɴ {city} : 🍃 {NF6({gust:kph})}  / 🍃 {NF6({gust:mph})} ",
-          "{NF6()} ☁️ ᴄʟᴏᴜᴅ ɪɴ {city} : ☁️ {NF6({cloud})} ",
-          "{NF6()} 🌞 ᴜᴠ ɪɴ {city} : 🌞 {uv}",
-          "{NF6()} 🦠 ᴘᴍ 2.5 ɪɴ {city} : 🦠 {NF6({pm2.5})}"
+          "👥 ᴜꜱᴇʀɴᴀᴍᴇ : 🗂️ {user:name} ",
+          "🌉 ᴄᴏᴜɴᴛʀʏ : Thailand "
       ],
         "bigimg": [
             "https://i.ibb.co/9s3BXdX/raw-676624984.gif",
@@ -63,7 +56,7 @@
             "https://i.ibb.co/xHfCFNM/tenor-1065505233.gif",
             "https://i.ibb.co/xsb8BbC/tumblr-os3qcj4-MKm1wn2b96o1-500-1263914905.gif"
         ],
-        "smallimg": ["{user:icon}"],
+        "smallimg": ["https://media.discordapp.net/attachments/784418037007777814/1250465208585945138/verified.gif"],
         "button-1": [
             {
                 "name": "❄ Facebook ❄",
