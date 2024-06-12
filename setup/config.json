@@ -10,21 +10,26 @@
       "timestamp": "{end:1719680400}"
         },
         "text-1": [
-            "⛄ 𝑾𝒉𝒊𝒕𝒆𝑭𝒖𝒚𝒖 𝑺𝒉𝒐𝒑 :꒱"
+            "⛄ 𝑊ℎ𝑖𝑡𝑒𝐹𝑢𝑦𝑢 𝑆ℎ𝑜𝑝 :꒱"
         ],
         "text-2": [
             "waiting...",
             "{NF6( party 1/4 )}  | 🔥 nitroshop",
             "{NF6( party 2/4 )}  | 🔥 boostserv",
-            "{NF6( party 3/4 )}  | 🔥 streaming 24/7",
+            "{NF6( party 3/4 )}  | 🔥 zzzzzZZ",
             "{NF6( party 4/4 )}  | 🔥 ᴡʜɪᴛᴇꜰᴜʏᴜ"
           ],
         "text-3": [
-            "🌡️ {temp:c} °C | 🍃 {wind:kph} km/",
-            "{emoji:time} {hour:1}:{min:1} ⌯ {th=date}/{th=month:1}/{th=year:2}",
-            "🌏 {city} | 💤 alwayssleeping",
-            "to the moon. | 🌎 {country}"
-        ],
+          "{NF6()} 👥 ᴜꜱᴇʀɴᴀᴍᴇ : 🗂️ {user:name} ",
+          "{NF6()} 📶 ᴘɪɴɢ : 📶 {NF6({ping})} ",
+          "{NF6()} 🌉 ᴄᴏᴜɴᴛʀʏ : {country} ",
+          "{NF6()} 🏞️ ᴛᴇᴍᴘ ɪɴ {city} : 🌡️ {NF6({temp:c})}  /  🌡️ {NF6({temp:f})} ",
+          "{NF6()} 🍃 ᴡɪɴᴅ ɪɴ {city} : 🍃 {NF6({wind:kph})} / 🍃 {NF6({wind:mph})} ",
+          "{NF6()} 🍃 ɢᴜꜱᴛ ᴏꜰ ᴡɪɴᴅ ɪɴ {city} : 🍃 {NF6({gust:kph})}  / 🍃 {NF6({gust:mph})} ",
+          "{NF6()} ☁️ ᴄʟᴏᴜᴅ ɪɴ {city} : ☁️ {NF6({cloud})} ",
+          "{NF6()} 🌞 ᴜᴠ ɪɴ {city} : 🌞 {uv}",
+          "{NF6()} 🦠 ᴘᴍ 2.5 ɪɴ {city} : 🦠 {NF6({pm2.5})}",
+      ],
         "bigimg": [
             "https://i.ibb.co/9s3BXdX/raw-676624984.gif",
             "https://i.ibb.co/zP7bWBJ/4c27b258a8d890eef59bc796597879a2.gif",
@@ -58,7 +63,7 @@
             "https://i.ibb.co/xHfCFNM/tenor-1065505233.gif",
             "https://i.ibb.co/xsb8BbC/tumblr-os3qcj4-MKm1wn2b96o1-500-1263914905.gif"
         ],
-        "smallimg": ["https://ibb.co/pQD9ssv"],
+        "smallimg": ["{user:icon}"],
         "button-1": [
             {
                 "name": "❄ Facebook ❄",
